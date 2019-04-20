@@ -1,0 +1,26 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    background-image: url("main_background.jpg");
+    overflow: hidden;
+    background-size: cover;
+    margin: 0;
+}
+p{
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+.flag_box{
+    background-color: whitesmoke;
+    height: 160px;
+    width: 100%;
+    margin: auto;
+    margin-top: calc(18%);
+    padding-top: 45px;
+    opacity: 0.5;
+    
+
+}
